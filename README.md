@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on data-centric digital products
+- 🌱 I’m currently learning AWS Big Data tools
+- 👯 I’m looking to collaborate on data-centric products
+- 💬 Ask me about compassionate, empathetic engineering leadership
+- 📫 LinkedIn: https://www.linkedin.com/in/roblnewman/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've lived on every continent except Antartica
+
 <!--
 Vercel rate limiting problem: https://github.com/anuraghazra/github-readme-stats/issues/2130
 [![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robnewman&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
