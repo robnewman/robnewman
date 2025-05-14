@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on data-centric digital products
-- 🌱 I’m currently learning AWS Big Data tools
+- 🔭 I’m currently working at the intersection of bioinformatics + data
+- 🇪🇸 I'm currently a Product Manager Lead at Seqera, headquartered in Barcelona, Spain
+- 🌱 I’m currently learning containerization methodologies (Docker, Podman, K8s)
 - 👯 I’m looking to collaborate on data-centric products
-- 💬 Ask me about compassionate, empathetic engineering leadership
+- 💬 Ask me about compassionate, empathetic tech leadership
 - 📫 LinkedIn: https://www.linkedin.com/in/roblnewman/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've lived on every continent except Antartica
